@@ -1,3 +1,4 @@
+
 namespace ChristmasQueue.Collections.Tests;
 
 public class StackTests

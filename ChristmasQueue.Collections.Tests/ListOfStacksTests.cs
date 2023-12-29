@@ -4,6 +4,7 @@ public class ListOfStacksTests
 {
     [Fact]
     public void GetAt_WithValidIndex_ShouldReturnStack()
+
     {
         // Arrange
         var listOfStacks = new ListOfStacks(3, 2);
